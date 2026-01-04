@@ -1,7 +1,5 @@
 # Clonación de Discos con Clonezilla
 
-![Portada del proyecto](cover.png)
-
 ## Descripción
 Implementación de clonación de discos en entornos Linux usando Clonezilla. Incluye dos escenarios:
 - Clonación local a USB (sin encriptación, modo automático).
